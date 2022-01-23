@@ -1,6 +1,6 @@
 # tripod
 
-![1f40b](https://user-images.githubusercontent.com/46510170/150700432-4551eaef-3558-4ddd-9c82-394a048455f7.png)
+![whale_250px](https://user-images.githubusercontent.com/46510170/150700922-55678ed6-314a-41ed-91c5-e9e78d9a345b.png)
 
 Tripod's collaboration space for experimental arts.
 
